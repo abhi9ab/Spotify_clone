@@ -1,4 +1,4 @@
-#Spotify clone project 
+Spotify clone project 
 
 This is spotify clone using html, css, and javascript.
 Preview:
